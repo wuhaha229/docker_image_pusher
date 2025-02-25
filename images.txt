@@ -7,3 +7,4 @@ xhofe/alist:latest
 infiniflow/ragflow:v0.16.0
 python:3.9.21-alpine3.21
 infiniflow/ragflow
+elasticsearch:8.11.3
